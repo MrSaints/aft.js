@@ -11,7 +11,7 @@
     // Notice me senpai!
     var $AFT_VISIBLE_TITLE = document.title;
     var $AFT_HIDDEN_TITLE = "Don't forget about me! :(";
-    var $AFT_TIMEOUT = 3000;
+    var $AFT_TIMEOUT = 10000;
     var $AFT_TIMEOUT_FN;
 
     function _show($title) {
